@@ -1,1 +1,1 @@
-# CS421-Project
+# Code Comprehension and Debugging Platform
